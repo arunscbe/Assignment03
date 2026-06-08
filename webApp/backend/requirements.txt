@@ -1,0 +1,9 @@
+langchain_google_genai
+langchain-openai
+transformers
+sentence-transformers
+langchain-community
+langchain-groq
+torch
+huggingface-hub
+pillow

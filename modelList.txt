@@ -1,0 +1,22 @@
+<<<<<<< HEAD
+
+Model Used:
+
+Text To Text  - "openai/gpt-oss-120b "
+Image To Text  - "gemini-2.5-flash"
+Audio To Text  - "canopylabs/orpheus-v1-english"
+Text To Audio - "whisper-large-v3-turbo"
+Text To Image  - "black-forest-labs/FLUX.1-schnell"
+
+=======
+
+Model Used:
+
+Text To Text  - "openai/gpt-oss-120b "
+Image To Text  - "gemini-2.5-flash"
+Audio To Text  - "canopylabs/orpheus-v1-english"
+Text To Audio - "whisper-large-v3-turbo"
+Text To Image  - "black-forest-labs/FLUX.1-schnell"
+
+>>>>>>> 580eed22788b65ccedfcb1e88b52b7eeb5ddf4c6
+Though due to low GPU unable to use the models for Video
